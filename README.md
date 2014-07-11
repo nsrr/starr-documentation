@@ -1,4 +1,4 @@
-starr-documentation
+Starr Documentation
 ===================
 
-Starr documentation for sleepdata.org
+Version controlled repository for Starr documentation on [sleepdata.org](http://sleepdata.org/datasets/starr)
